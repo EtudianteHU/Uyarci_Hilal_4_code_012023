@@ -23,7 +23,6 @@ a:hover {
     z-index: 100000;
     background: #ffffff url("img/pageload-spinner.gif") no-repeat center center;
 }
-
 .bloc {
     width: 100%;
     clear: both;
@@ -547,6 +546,7 @@ a[data-lightbox]:hover img {
 }
 h1,
 h2,
+h3,
 h4,
 h5,
 h6,
@@ -607,7 +607,7 @@ h3 {
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #ffffff;
+    color: #333333 !important;
 }
 .med-width-whitespace {
     max-width: 800px;
@@ -623,9 +623,6 @@ h4 {
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
-}
-.tc-white {
-    color: #ffffff;
 }
 .white {
     color: #ffffff !important;
@@ -656,6 +653,9 @@ h4 {
 }
 .bgc-atomic-tangerine {
     background-color: #f3976c;
+}
+.tc-white {
+    color: #ffffff !important;
 }
 .btn-atomic-tangerine {
     background: #f3976c;
