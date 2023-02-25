@@ -8,6 +8,10 @@ body {
     padding-right: 0;
     padding-left: 0;
 }
+.row.row-no-gutters,
+.row.row-no-gutters {
+    text-align: center;
+}
 
 .nav-center .navbar-brand img,
 body {
@@ -107,7 +111,6 @@ a:hover {
 }
 .d-bloc {
     color: rgba(255, 255, 255, 0.7);
-    text-align: center;
 }
 .d-bloc button:hover {
     color: rgba(255, 255, 255, 0.9);
@@ -258,7 +261,6 @@ a:hover {
     margin-right: -16px;
     float: right;
     z-index: 1;
-    list-style: none;
 }
 .nav > li {
     margin-top: 4px;
@@ -572,7 +574,6 @@ p {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto;
-    text-align: center;
 }
 .h1 {
     font-size: 20px;
