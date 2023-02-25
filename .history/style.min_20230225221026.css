@@ -738,6 +738,7 @@ h3 {
     .page-container {
         overflow-x: hidden;
         position: relative;
+        display: block;
     }
     #disqus_thread,
     h1,

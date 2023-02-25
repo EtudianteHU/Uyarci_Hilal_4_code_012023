@@ -834,6 +834,7 @@ h3 {
     .bloc-xl,
     .bloc-xxl {
         padding: 40px 0;
+        display: block;
     }
     .a-block {
         padding: 0 10px;

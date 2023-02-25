@@ -726,6 +726,7 @@ h3 {
         padding: 0 20px;
         padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);
+        display: block;
     }
 }
 @media (max-width: 400px) {

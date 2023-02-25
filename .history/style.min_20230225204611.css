@@ -97,7 +97,7 @@ a:hover {
     right: 0;
 }
 .texture-paper::before {
-    background: url("img/texture-paper.webp") 0 0 /280px 280px;
+    background: url("img/texture-paper.webp") 0 0/280px 280px;
 }
 .nav > li > .dropdown a,
 .navbar-toggle:hover {
@@ -171,7 +171,6 @@ a:hover {
 .d-bloc .panel,
 .l-bloc {
     color: rgba(0, 0, 0, 0.5);
-    text-align: center;
 }
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
@@ -229,7 +228,6 @@ a:hover {
 .voffset-lg {
     margin-top: 80px;
 }
-
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
@@ -608,12 +606,11 @@ h3 {
 }
 .portfolio-thumb {
     margin-bottom: 24px;
-    height: 200px;
+    height: 300px;
 }
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
-    display: flex;
 }
 .avatar {
     box-shadow: 0 4px 9px rgba(0, 0, 0, 0.3);

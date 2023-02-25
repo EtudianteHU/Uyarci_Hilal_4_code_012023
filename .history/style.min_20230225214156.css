@@ -171,7 +171,6 @@ a:hover {
 .d-bloc .panel,
 .l-bloc {
     color: rgba(0, 0, 0, 0.5);
-    text-align: center;
 }
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
@@ -673,6 +672,7 @@ h3 {
     .bloc {
         padding-left: 20px;
         padding-right: 20px;
+        text-align: center;
     }
     .bloc-tile-2.full-width-bloc .container,
     .bloc-tile-3.full-width-bloc .container,
@@ -715,6 +715,7 @@ h3 {
     .bloc {
         padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);
+        text-align: center;
     }
     .bloc-group,
     .bloc-group .bloc {
@@ -732,6 +733,7 @@ h3 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+        text-align: center;
     }
 }
 @media (max-width: 767px) {
