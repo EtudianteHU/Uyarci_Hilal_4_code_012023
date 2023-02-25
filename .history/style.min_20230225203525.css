@@ -7,7 +7,6 @@ body {
 .row.row-no-gutters > [class^="col-"] {
     padding-right: 0;
     padding-left: 0;
-    text-align: center;
 }
 
 .nav-center .navbar-brand img,
@@ -723,6 +722,7 @@ h3 {
         padding: 0 20px;
         padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);
+        text-align: center;
     }
 }
 @media (max-width: 400px) {
