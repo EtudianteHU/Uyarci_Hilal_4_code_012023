@@ -285,6 +285,7 @@ a:hover {
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
     padding-left: 0;
+    width: 300px;
 }
 
 #bloc-1-hero h1 {
@@ -539,8 +540,6 @@ a[data-lightbox] {
     position: relative;
     display: block;
     text-align: center;
-    width: 300px;
-    height: 300px;
 }
 
 a[data-lightbox]:hover::before {
@@ -685,7 +684,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 11px;
 }
 
 .tight-width-whitespace {
@@ -779,7 +778,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #f77e45;;
+    background-color: #f3976c;
 }
 
 .tc-white {
@@ -787,7 +786,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background:  #c27956;
+    background: #f77e45;
     color: #ffffff !important;
 }
 
@@ -805,7 +804,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color:#c27956 !important;
+    color: #f3976c !important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -971,7 +970,7 @@ h4 {
     }
     .navbar-brand img {
         max-height: 40px;
-        width: 40px;
+        width: auto;
     }
     .nav-invert .navbar-header {
         float: none;
