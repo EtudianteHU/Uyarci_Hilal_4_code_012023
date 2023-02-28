@@ -531,7 +531,7 @@ button {
 }
 
 .showScrollTop {
-    font-size: 16px;
+    font-size: 14px;
     opacity: 1;
 }
 
@@ -716,7 +716,7 @@ h2 {
 }
 
 h3 {
-    font-size: 16px;
+    font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333 !important;
@@ -785,7 +785,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #f77e45;
+    background: #f3976c;
     color: #ffffff !important;
 }
 
