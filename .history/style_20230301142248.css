@@ -691,7 +691,6 @@ p {
 
 .tight-width-whitespace {
     margin: auto auto auto auto;
-    max-width: 600px;
 }
 .h1 {
     font-size: 20px;
@@ -904,6 +903,7 @@ h4 {
     .page-container {
         overflow-x: hidden;
         position: relative;
+        margin-left: 50px;
     }
     h1,
     h2,

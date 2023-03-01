@@ -691,7 +691,6 @@ p {
 
 .tight-width-whitespace {
     margin: auto auto auto auto;
-    max-width: 600px;
 }
 .h1 {
     font-size: 20px;
@@ -915,7 +914,6 @@ h4 {
     #disqus_thread {
         padding-left: 10px !important;
         padding-right: 10px !important;
-        
     }
     .b-parallax {
         background-attachment: scroll;

@@ -904,6 +904,7 @@ h4 {
     .page-container {
         overflow-x: hidden;
         position: relative;
+        margin-left: 50px;
     }
     h1,
     h2,
