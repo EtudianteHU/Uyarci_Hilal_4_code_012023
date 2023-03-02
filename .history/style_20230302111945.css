@@ -661,7 +661,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #393838!important;
+    color: #ffffff !important;
 }
 
 .container {
@@ -688,6 +688,7 @@ a {
 
 p {
     font-size: 16px;
+    
 }
 
 .tight-width-whitespace {
@@ -783,7 +784,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color:#f3834f;
+    background-color:#cc7f5c;
 }
 
 .tc-white {
